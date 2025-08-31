@@ -11,6 +11,9 @@ motion design
    <a href="https://www.behance.net/felipenight" target="_blank"><img align="center" alt="bh" height="20" src="https://aleen42.github.io/badges/src/photoshop.svg"></a>
    <a href="https://www.behance.net/felipenight" target="_blank"><img align="center" alt="bh" height="20" src="https://aleen42.github.io/badges/src/illustrator.svg"></a>
    <a href="https://www.behance.net/felipenight" target="_blank"><img align="center" alt="bh" height="20" src="https://aleen42.github.io/badges/src/after_effects.svg"></a>
+   <a href="https://www.behance.net/felipenight" target="_blank"><img align="center" alt="bh" height="20" src="https://badges.aleen42.com/src/node.svg"></a>
+   <a href="https://www.behance.net/felipenight" target="_blank"><img align="center" alt="bh" height="20" src="https://badges.aleen42.com/src/typescript.svg"></a>
+   <a href="https://www.behance.net/felipenight" target="_blank"><img align="center" alt="bh" height="20" src="https://badges.aleen42.com/src/vitejs.svg"></a>
  
 </div>
 
