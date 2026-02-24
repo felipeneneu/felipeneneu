@@ -53,4 +53,4 @@ High-conversion landing page for martial arts coach.
 
 ## 📈 GitHub Stats
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeneneu&show_icons=true&theme=tokyonight)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeneneu&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true)
